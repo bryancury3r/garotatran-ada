@@ -14,7 +14,7 @@ Foi feito com base em cima do evento #NLW6 da #Rocketseat.
 
 ![Web 2](https://github.com/bryancury3r/garotatran-ada/blob/main/image/Screenshot%20from%202021-07-05%2023-18-09.png)
 
-)
+
 
 # Tecnologias utilizadas
 
